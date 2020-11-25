@@ -27,18 +27,38 @@ Hay una relación directa, porque el software necesita un lugar en donde se encu
 + **Lanzamiento:** Una vez terminado se libera para el uso público y se analizan el imparto y los feedbacks de sus consumidores.
 + **Soporte:** Se crea un plan de mantenimiento a lo largo del tiempo para satisfacer las posibles necesidades de los consumidores respecto al software.  
 
-**6. ¿Qué diferencia existe entre los lenguajes declarativos y los imperativos? Nombra al menos 2 de cada tipo.**  
+**6. ¿Qué diferencia existe entre los lenguajes declarativos y los imperativos? Nombra al menos 2 de cada tipo.**
 
-**7. ¿Explica qué es compilar? ¿Explica qué es interpretar?**  
+Los lenguajes declarativos indican el resultado a obtener sin especificar los pasos, mientras que los lenguajes imperativos indican los pasos a seguir para obtener un resultado.
++ **Lenguajes declarativos:** SQL y Prolog.
++ **Lenguajes imperativos:**  C++ y Java.
 
-**8. Ventajas de los lenguajes compilados.**  
+**7. ¿Explica qué es compilar? ¿Explica qué es interpretar?**
 
-**9. Ventajas de los lenguajes interpretados.**  
++ Compilar es transforma el código fuente de un programa a su equivalente en otro lenguaje de programación de más bajo nivel.
++ Interpretar es ejecutar directamente las instrucciones escritas en un lenguaje de programación dado.
 
-**10. Pon un ejemplo de lenguaje de los siguientes tipos:**  
+**8. Ventajas de los lenguajes compilados.**
 
-+ **Bajo nivel.**
-+ **Alto nivel.**  
+Son muy eficientes en al ser ejecutados. 
 
-**11. Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.**  
+**9. Ventajas de los lenguajes interpretados.**
 
+El código fuente se interpreta directamente. 
+
+**10. Pon un ejemplo de lenguaje de los siguientes tipos:**
+
++ **Bajo nivel:** Ensamblador.
++ **Alto nivel:** Java.
+
+**11. Explica qué criterios pueden seguirse a la hora de elegir un lenguaje de programación para el desarrollo software.**
+
+Se pueden seguir los siguientes criterios:
++ Campo de aplicación
++ Experiencia previa
++ Herramientas de desarrollo
++ Documentación disponible
++ Base de usuarios
++ Reusabilidad
++ Portabilidad
++ Imposición del cliente

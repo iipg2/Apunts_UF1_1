@@ -1,6 +1,6 @@
 # Apunts_UF1_1
 
-+**Ingeniería de software:** Disciplina que estudia los principios y metodologías para el desarrollo y mantenimiento de sistemas software.
+**Ingeniería de software:** Disciplina que estudia los principios y metodologías para el desarrollo y mantenimiento de sistemas software.
 
 **Desarrollo de software**
 + **Análisis:** Se determina y define claramente las necesidades del cliente y se especifica los requisitos que debe cumplir el software a desarrollar.
